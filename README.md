@@ -43,7 +43,5 @@ The file has been successfully compressed.
 - Large text files or files with complex structures may take longer to compress and decompress.
 
 
-## Author
 
-- [@anisha-singh07](https://github.com/anisha-singh07)
 
